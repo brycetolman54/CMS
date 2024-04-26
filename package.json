@@ -5,8 +5,14 @@
   "description": "- This is a repo that I am using to get familiar with hosting websites on github pages and using google sheets to be the database of my infromation and my backend server",
   "main": "index.js",
   "devDependencies": {
-    "gh-pages": "^6.1.1",
-    "vite": "^4.3.9"
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "vite": "^5.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
